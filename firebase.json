@@ -1,4 +1,7 @@
 {
+  "projects": {
+    "default": "resincalc-bzy6f/overview"
+  },
   "hosting": {
     "public": ".",
     "ignore": [
